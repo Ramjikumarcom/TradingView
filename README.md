@@ -1,11 +1,14 @@
 # AXIOM Pro (Frontend)
 
+
 A polished Next.js app that showcases a DeFi trading experience with:
 - Full-bleed hero background video (first viewport)
 - Split hero: text over video, then panels/gallery in second viewport
 - Rewards, Architecture, FAQ, CTA sections
 - Auth modal (Sign Up/Login) with email validation, Google/Phantom entry points
 - Clean Footer
+
+![App Screenshot](https://github.com/<your-username>/<repo-name>/raw/main/public/preview.png)
 
 ## Tech Stack
 - Next.js 16 (App Router, Turbopack)

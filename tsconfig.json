@@ -17,12 +17,13 @@
     "isolatedModules": true,
     "jsx": "preserve",
     "incremental": true,
-    "baseUrl": ".", // ✅ add this line
+    "baseUrl": ".",
     "paths": {
       "@/*": [
         "src/*"
-      ] // ✅ fix alias path (no leading ./)
+      ]
     },
+    "types": ["node"],
     "plugins": [
       {
         "name": "next"

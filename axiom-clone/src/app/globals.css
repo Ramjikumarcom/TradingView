@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* tokens ported from @theme (Tailwind v3 style) */
+:root {
+  --color-axiom-500: #00ffaa;
+  --color-green: #00ffaa;
+  --color-red: #ff3333;
+  --color-blue-600: #2563eb;
+
+  --background: #0a0a0a;
+  --foreground: #f8f8f8;
+  --card: #141414;
+  --card-foreground: #f8f8f8;
+
+  --popover: #0a0a0a;
+  --popover-foreground: #f8f8f8;
+
+  --primary: #f8f8f8;
+  --primary-foreground: #141414;
+
+  --secondary: #27272a;
+  --secondary-foreground: #f8f8f8;
+
+  --muted: #27272a;
+  --muted-foreground: #a1a1aa;
+
+  --accent: #00ffaa;
+  --accent-foreground: #0a0a0a;
+
+  --destructive: #ff3333;
+  --destructive-foreground: #f8f8f8;
+
+  --border: #ffffff1a;
+  --input: #27272a;
+  --ring: #f8f8f8;
+
+  --radius: 0.5rem;
+}
+
+/* Global dark theme */
+html, body {
+  height: 100%;
+}
+body {
+  background: radial-gradient(1200px 700px at 70% 110%, rgba(37, 99, 235, 0.15), transparent 60%),
+              radial-gradient(1000px 600px at -10% 20%, rgba(59, 130, 246, 0.12), transparent 55%),
+              var(--background);
+  color: var(--foreground);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Page container helper for consistent max width */
+.container-xl {
+  width: 100%;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}

@@ -18,7 +18,7 @@ A polished Next.js app that showcases a DeFi trading experience with:
 
 ![Screenshot from 2025-11-09 11-20-13.png](https://github.com/Ramjikumarcom/TradingView/blob/8da03798ea14ad5044cb77e90c5d9f1c578cadbf/Screenshot%20from%202025-11-09%2011-20-29.png))
 
-![Screenshot from 2025-11-09 11-20-13.png](https://github.com/Ramjikumarcom/TradingView/blob/7a0509997450b885ddf53ae1b8493a581728ae50/Screenshot%20from%202025-11-09%2011-20-18.png))
+![Screenshot from 2025-11-09 11-20-13.png](https://github.com/Ramjikumarcom/TradingView/blob/b4c268ebfcf8d885d7dba1ef0e41fc3dde180932/Screenshot%20from%202025-11-09%2011-20-35.png))
 
 ## Tech Stack
 - Next.js 16 (App Router, Turbopack)

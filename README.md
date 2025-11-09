@@ -8,7 +8,7 @@ A polished Next.js app that showcases a DeFi trading experience with:
 - Auth modal (Sign Up/Login) with email validation, Google/Phantom entry points
 - Clean Footer
 
-![App Screenshot](https://github.com/<your-username>/<repo-name>/raw/main/public/preview.png)
+![App Screenshot](Screenshot from 2025-11-09 11-20-13.png)
 
 ## Tech Stack
 - Next.js 16 (App Router, Turbopack)
